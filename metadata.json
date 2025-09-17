@@ -1,0 +1,7 @@
+{
+  "name": "PhishGuard AI",
+  "description": "A real-time, AI/ML-based phishing detection and prevention system that analyzes URLs, text content, and QR codes for sophisticated cyber threats using deep learning and advanced NLP.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
